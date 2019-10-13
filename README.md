@@ -1,4 +1,4 @@
-# TulungagungCyberLink
+# TulungagungCyberLink Hall of Fame
  Simple CMS for tulungagungcyberlink.org .
  
 ## Database
